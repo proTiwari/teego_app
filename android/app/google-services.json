@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "386685283183",
+    "project_id": "liveyou6-cd3e3",
+    "storage_bucket": "liveyou6-cd3e3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:386685283183:android:fe42c084e34c524d50569a",
+        "android_client_info": {
+          "package_name": "com.appplyu.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "386685283183-43illbn1mmi3vi02mcsrbop570lg2q05.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDFRMCdS3nVtW8P6xxhH1_tWuGvKv3_ToM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "386685283183-43illbn1mmi3vi02mcsrbop570lg2q05.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
